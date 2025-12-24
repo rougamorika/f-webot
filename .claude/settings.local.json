@@ -13,7 +13,9 @@
       "Bash(node quartz/bootstrap-cli.mjs serve:*)",
       "Bash(node quartz/bootstrap-cli.mjs:*)",
       "Bash(git remote:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }
