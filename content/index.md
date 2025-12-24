@@ -25,9 +25,9 @@ tags:
 
 浏览以下示例笔记，了解各种功能：
 
-- [[数学公式示例]] - 查看如何使用数学公式
-- [[代码示例]] - 查看代码高亮效果
-- [[Markdown 语法]] - 学习 Markdown 基础语法
+- [[math-formulas|数学公式示例]] - 查看如何使用数学公式
+- [[code-examples|代码示例]] - 查看代码高亮效果
+- [[markdown-syntax|Markdown 语法]] - 学习 Markdown 基础语法
 
 ## 关于本站
 

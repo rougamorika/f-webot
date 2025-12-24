@@ -93,6 +93,6 @@ public class BinarySearch {
 
 ## 相关笔记
 
-- [[数学公式示例]] - 查看数学公式渲染
-- [[Markdown 语法]] - 学习 Markdown 基础
+- [[math-formulas|数学公式示例]] - 查看数学公式渲染
+- [[markdown-syntax|Markdown 语法]] - 学习 Markdown 基础
 - [[index|返回首页]]
